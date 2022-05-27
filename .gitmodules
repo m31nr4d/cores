@@ -1,0 +1,12 @@
+[submodule "libraries/mcurses"]
+	path = libraries/mcurses
+	url = https://github.com/ChrisMicro/mcurses
+[submodule "libraries/TeensyDebug"]
+	path = libraries/TeensyDebug
+	url = https://github.com/ftrias/TeensyDebug
+[submodule "libraries/MicroNMEA"]
+	path = libraries/MicroNMEA
+	url = https://github.com/stevemarple/MicroNMEA
+[submodule "libraries/SST_ARM"]
+	path = libraries/SST_ARM
+	url = https://github.com/upiitacode/SST_ARM
